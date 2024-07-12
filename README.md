@@ -1,4 +1,4 @@
-<img src="https://github.com/Teja-uvce/Teja-uvce/blob/main/Github%20Logo.png" width="900" height="230">
+<img src="https://github.com/Teja-uvce/Teja-uvce/blob/main/Github%20Logo.png" width="900" height="300">
 
 
 <!--
